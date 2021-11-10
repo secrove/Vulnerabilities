@@ -1,1 +1,1 @@
-# Vulnerabilities:
+# Vulnerabilities
